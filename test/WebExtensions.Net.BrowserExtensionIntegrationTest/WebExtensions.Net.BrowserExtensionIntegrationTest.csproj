@@ -16,8 +16,8 @@
 
   <ItemGroup>
     <PackageReference Include="Blazor.BrowserExtension.Build" Version="2.0.2" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="9.0.1" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="9.0.1" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="9.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="9.0.2" PrivateAssets="all" />
     <PackageReference Include="Shouldly" Version="4.3.0" />
   </ItemGroup>
 
